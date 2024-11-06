@@ -1,0 +1,17 @@
+{
+  "subTitle": "",
+  "faqs": [
+    {
+      "question": "Que se passe-t-il après les 2 années d'hébergement web offert?",
+      "answer": "Après 2 ans, plusieurs options s’offrent à vous : 1-/ si vous êtes toujours étudiant et que vous avez toujours moins de 25 ans, vous pourrez demander le renouvellement de votre offre gratuite pour 2 années supplémentaires; 2-/ si vous n’êtes plus étudiant ou que vous avez plus de 25 ans mais que vous souhaitez tout de même continuer à utiliser votre offre, vous pourrez régler l’abonnement à un tarif très préférentiel (tarif indicatif : 35,000FCFA/an); 3-/ vous pourrez faire évoluer votre offre vers un pack supérieur au tarif public ; 4-/ si vous ne choisissez aucune des options précédentes, votre hébergement web sera automatiquement clôturé sans frais."
+    },
+    {
+      "question": "Y a-t-il de la publicité que je devrai mettre sur mon site pour Solunix Niger ou NigerCloud?",
+      "answer": "Il n’y a aucune publicité à mettre sur votre site web. Solunix Niger et NigerCloud agit de manière totalement désintéressée, dans le but d’aider le développement du pays."
+    },
+    {
+      "question": "Quelles sont les différences entre le pack Web Dan Jamiya Connect et les packs d'hébergement web classiques de NigerCloud?",
+      "answer": "Les seules différences se situent dans la limitation de certaines caractéristiques comme l’espace de stockage ou encore le nombre de comptes email etc. Pour le reste tout est identique. Les comptes « Web Dan Jamiya Connect » sont hébergés sur les mêmes serveurs haut de gamme que nos offres payantes."
+    }
+  ]
+}

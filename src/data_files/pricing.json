@@ -1,0 +1,67 @@
+{
+  "title": "Prix simples et abordables",
+  "subTitle": "Solunix Niger vous fournit un sous-domaine gratuitement ou vous pouvez acheter votre propre nom de domaine chez NigerCloud pour bénéficier de cette offre.",
+  "badge": "Meilleure offre",
+
+  "starterKit": {
+    "name": "Pour DAN JAMIYA L",
+    "description": "Pour les étudiants Niger",
+    "price": "15,0000",
+    "cents": "",
+    "billingFrequency": "FCFA / an",
+    "features": [
+      "2 Go de stockage",
+      "Trafic mensuel illimité",
+      "1 sous-domaine offert",
+      "Certificat SSL inclus",
+      "2 comptes email",
+      "1 bases de données",
+      "Logiciels pré-installés",
+      "PHP, Node.js, Python, Perl, etc.",
+      "Web Application Firewall",
+      "Protection DDoS",
+      "Anti-virus et Anti-spam",
+      "Tâches CRON",
+      "SSD Entreprise Grade",
+      "Sauvegardes automatiques",
+      "Outil de gestion des backups",
+      "Outils statistiques",
+      "Support standard"
+    ],
+    "purchaseBtnTitle": "Commandez",
+    "purchaseLink": "#"
+  },
+
+  "professionalToolbox": {
+    "name": "Pour DAN JAMIYA X",
+    "description": "Pour les étudiants Niger et de la diaspora",
+    "price": "25,0000",
+    "cents": "",
+    "billingFrequency": "FCFA / an",
+    "features": [
+      "5 Go de stockage sur SSD",
+      "Possibilité d'augmenter l'espace de stockage sur demande",
+      "05 Comptes emails",
+      "Webmail ",
+      "Trafic mensuel illimité",
+      "Certificat SSL gratuit",
+      "02 Bases de données",
+      "03 Sous-domaines",
+      "Inodes illimités",
+      "Logiciels pré-installés",
+      "PHP, Node.js, Python, Perl, etc.",
+      "Web Application Firewall",
+      "Protection DDoS",
+      "Anti-virus et Anti-spam",
+      "Protection MailChannels",
+      "Tâches CRON",
+      "SSD Entreprise Grade",
+      "Outil de gestion des backups",
+      "Outils statistiques",
+      "Support standard",
+      "Migration offerte"
+    ],
+    "purchaseBtnTitle": "Commandez",
+    "purchaseLink": "#"
+  }
+}
